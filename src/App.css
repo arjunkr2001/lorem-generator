@@ -30,6 +30,7 @@ nav{
   border: 1px solid aquamarine;
   border-radius: 50px;
   margin-top: 3.5rem;
+  margin-bottom: 5px;
 }
 .in:focus-within{
   box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
