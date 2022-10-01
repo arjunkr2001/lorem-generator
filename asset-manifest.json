@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lorem-generator/static/css/main.702a04ee.css",
+    "main.js": "/lorem-generator/static/js/main.012a6d66.js",
+    "static/js/787.159e65bd.chunk.js": "/lorem-generator/static/js/787.159e65bd.chunk.js",
+    "index.html": "/lorem-generator/index.html",
+    "main.702a04ee.css.map": "/lorem-generator/static/css/main.702a04ee.css.map",
+    "main.012a6d66.js.map": "/lorem-generator/static/js/main.012a6d66.js.map",
+    "787.159e65bd.chunk.js.map": "/lorem-generator/static/js/787.159e65bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.702a04ee.css",
+    "static/js/main.012a6d66.js"
+  ]
+}
